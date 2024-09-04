@@ -65,7 +65,6 @@ body {
     transform: translateX(50%); /* Center the text horizontally */
     opacity: 0;
     animation: fadeInOut 8s ease-in-out forwards;
-    animation-delay: 21s; /* Muncul setelah final-text */
 }
 
 .side-text2 {
@@ -77,7 +76,6 @@ body {
     transform: translateX(10%); /* Center the text horizontally */
     opacity: 0;
     animation: fadeInOut 8s ease-in-out forwards;
-    animation-delay: 25s; /* Muncul setelah final-text */
 }
 
 .side-text3 {
@@ -89,7 +87,6 @@ body {
     transform: translateX(10%); /* Center the text horizontally */
     opacity: 0;
     animation: fadeInOut 8s ease-in-out forwards;
-    animation-delay: 28s; /* Muncul setelah final-text */
 }
 
 .balloon-container {

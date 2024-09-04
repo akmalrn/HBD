@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f8ff;
+}
+
+#start-btn {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+img {
+    display: none; /* Sembunyikan gambar pada awalnya */
+}
